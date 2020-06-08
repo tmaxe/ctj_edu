@@ -1,2 +1,2 @@
 # ctj_edu
-Education project
+Python web project
